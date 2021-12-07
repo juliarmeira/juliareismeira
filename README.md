@@ -1,4 +1,5 @@
-## Olá! Eu sou a Júlia Reis, engenheira química com técnico em meio ambiente e em processo de aprendizagem nesse amplo mundo da programação!
+## Olá! 
+Eu sou a Júlia Reis, engenheira química com técnico em meio ambiente e em processo de aprendizagem nesse amplo mundo da programação!
 ✨ Estudante iniciante de Python;
 
 <div align="center">
